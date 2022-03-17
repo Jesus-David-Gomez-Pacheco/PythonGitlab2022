@@ -1,4 +1,4 @@
-python-gitlab
+python-gitlab 2022
 =============
 
 .. image:: https://github.com/python-gitlab/python-gitlab/workflows/Test/badge.svg
@@ -22,22 +22,23 @@ python-gitlab
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/python/black
 
-``python-gitlab`` is a Python package providing access to the GitLab server API.
+``python-gitlab 2022`` Es un paquete de Python que brinda acceso a la API del servidor de GitLab.
 
-It supports the v4 API of GitLab, and provides a CLI tool (``gitlab``).
 
-Installation
+Admite la API v4 de GitLab y proporciona una herramienta CLI (``gitlab``).
+
+Instalacion
 ------------
 
-As of 3.0.0, ``python-gitlab`` is compatible with Python 3.7+.
-
-Use ``pip`` to install the latest stable version of ``python-gitlab``:
+Es compatible con Python 3.7+.
+Usar ``pip`` para instalar la ultima version
 
 .. code-block:: console
 
    $ pip install --upgrade python-gitlab
 
-The current development version is available on both `GitHub.com
+La versión de desarrollo actual está disponible tanto en `GitHub.com
+
 <https://github.com/python-gitlab/python-gitlab>`__ and `GitLab.com
 <https://gitlab.com/python-gitlab/python-gitlab>`__, and can be
 installed directly from the git repository:
